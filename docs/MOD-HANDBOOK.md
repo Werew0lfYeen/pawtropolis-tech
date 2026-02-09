@@ -285,7 +285,7 @@ Mutes: Muting can be an effective tool to halt users in their tracks from commit
 | L-1 | Low | Minor spam, general warnings | 30 days |
 | M-2 | Medium | Harassment, VC abuse, repeated offenses | 2 months |
 | H-3 | High | Hate speech, direct threats, identity attacks | Never |
-| C-4 | Critical | Raids, doxxing, illegal content distribution | N/A (Ban) |
+| C-4 | Critical | Raids, Drama leaks, Community Vs Community | N/A (Ban) |
 
 ### Logging Requirements
 
