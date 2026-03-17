@@ -72,38 +72,37 @@ Key features:
 
 ---
 
-## Staff Roles
+## Staff Role & Responsibility 
 
-### Community Manager(s)
+Due to the new changes no moderation staff will have a higher rank than others. This excludes the owner of the server. Everyone has the same responsibility and power when it comes to taking action against rulebreakers. 
 
-- Leads and supervises the entire staff team.
-- Handles server-wide initiatives, announcements, and events.
-- Reviews staff performance and manages internal systems and communications.
-- Coordinates with moderators and administrators on high-impact community actions.
-- Represents server leadership in community interactions.
-
-### Administrator(s)
-
-- Maintains day-to-day technical aspects of the server (channels, permissions, etc.).
-- Supports moderation and ensures rules, bots, and internal tools are functioning.
-- Assists with documentation and setup tasks—not responsible for community-wide direction.
-- Works with Sr. Mods and Mods to ensure reports and issues are addressed correctly.
-
-### Senior Moderator(s)
-
-- Oversees moderators and ensures proper enforcement of rules.
-- Reviews and handles escalated or sensitive moderation cases.
-- Provides training and mentorship to new mods.
-- Acts as liaison between Mods and Admins/Community Managers.
-
-### Moderator(s)
-
+### List of Responsibilites 
 - Enforces rules fairly and consistently across the server.
 - Manages behavior in text and voice channels.
 - Uses appropriate tools (warn, mute, kick, ban) following the server's escalation guidelines.
 - Files proper modlogs and communicates issues internally.
 - Maintains a helpful, approachable presence within the community.
 
+Because there is only one staff rank, promotions will no longer occur. However as a member of the staff team, you get access to leadership roles which give you extra presence in the community. Please find [Leadership Roles](#Leadership-Roles) below for more info on how it works and how to sign up. 
+
+# Leadership Roles
+
+Thanks to one of our staff members (Bash) we now have "Leadership Roles". Instead of having ranks where some staff have more authority than others. This is a way to get any staff member involved in making the community a better place. 
+
+## What is a Leadership Role?
+
+A leader ship role is a position for any staff to operate a specific goal or task within the community. Examples include, managing weekly newsletters, pushing new ideas from members to the community polls channel, and much more. 
+## How it works:
+
+As you spend time as a moderator you will gain the ability to apply to different leadership positions. Different leadership roles may require you to spend a certain amount of time as a staff member before you can apply to a leadership position.
+
+### How to Apply to a leadership position?
+
+In order to apply to a leadership position, you are required to meet a certain criteria before you can apply. This can include things like the amount of time you've been a moderator, etc. You can find the list of positions [Here](https://docs.google.com/spreadsheets/d/1Ob1qMRi0aK7_V5xduM4d31Buq6nfr_j1Qw-mh1rFv0Q/edit?usp=sharing)
+
+Once you found a position you are eligible for, please DM Werewolf to sign up. 
+
+You will be require to fullfill this role at the request of its requirement. Each position will be given either an on call introduction or guide page on how to complete the role you signed up for. 
 ---
 
 ## Conduct & Expectations
